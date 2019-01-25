@@ -1,6 +1,6 @@
 {
   "name": "@overrideveloper/adjectiver",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "An npm package that returns adjectives that begin with input letter of first letter of input.",
   "main": "index.js",
   "scripts": {
