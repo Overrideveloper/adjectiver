@@ -30,3 +30,5 @@ adjectiver.getAdjectives(3, 5);
 adjectiver.getAdjective(3);
 //=> Uncaught TypeError: parameter 'noun' should be a string
 ```
+
+##### N.B: These adjectives have not been filtered.
