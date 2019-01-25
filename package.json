@@ -1,0 +1,27 @@
+{
+  "name": "@overrideveloper/adjectiver",
+  "version": "1.1.1",
+  "description": "An npm package that returns adjectives that begin with input letter of first letter of input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Overrideveloper/adjectiver.git"
+  },
+  "keywords": [
+    "adjectiver",
+    "adjective",
+    "overrideveloper",
+    "npm",
+    "package"
+  ],
+  "author": "Overrideveloper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Overrideveloper/adjectiver/issues"
+  },
+  "homepage": "https://github.com/Overrideveloper/adjectiver#readme",
+  "dependencies": {}
+}
